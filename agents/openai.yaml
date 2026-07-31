@@ -1,0 +1,4 @@
+interface:
+  display_name: "政治经济调查写作"
+  short_description: "通过强制分阶段调查、讨论和写作形成政治经济分析文章"
+  default_prompt: "Use $investigate-political-economy to investigate this topic through the mandatory research, interpretation, and writing stages."

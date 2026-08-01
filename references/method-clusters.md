@@ -54,7 +54,7 @@ Choose according to the gap being explained:
 - **Declared purpose versus operative function:** explain how legal, financial, or administrative design produces effects different from or broader than the official account.
 - **Finance, ownership, and control:** explain how credit, collateral, equity, contracts, storage, access, voting, veto, audit, or seizure rights distribute power and risk.
 - **Strategic convergence:** explain whether parallel actions arise from command, contract, policy inducement, common incentives, structural compatibility, or coincidence.
-- **Commodity and value transfer:** explain how resources, labor, risk, profits, technology, and bargaining power move between producing regions and accumulation centers.
+- **Commodity, technology, and productive-capacity transfer:** explain how resources, labor, risk, profits, technology, and bargaining power move between regions and actors. For technology projects, test whether delivered equipment becomes locally reproducible capacity rather than treating physical shipment as transfer completed.
 - **Structural steering without direct command:** explain how regulation, procurement, market access, alliance obligations, and profit expectations orient formally independent actors.
 
 ### Cross-cutting lenses
@@ -65,6 +65,7 @@ Activate only when they can change the primary explanation:
 - timing clusters, personnel connections, and policy sequence;
 - differences within states, firms, investors, intermediaries, and alliances;
 - strategies and bargaining power of producing states, workers, and local classes;
+- productive capacity decomposed into equipment ownership and use, operator knowledge, repair and spare parts, software and data, intellectual property, finance and procurement, local manufacturing depth, processing, storage, logistics, market access, and verified changes in labor, cost, output, or control;
 - military, sanctions, tariff, currency, energy, and infrastructure conditions.
 
 ### Evidence and narrative forms
@@ -72,7 +73,7 @@ Activate only when they can change the primary explanation:
 Use as the mechanism requires:
 
 - legal instruments, contracts, filings, financial statements, procurement and regulatory records;
-- transaction-status chains distinguishing announcement, authorization, signing, closing, disbursement, construction, production, shipment, and realized result;
+- transaction-status chains distinguishing announcement, authorization, signing, closing, disbursement, construction, production, shipment, and realized result; for technology cooperation, distinguish display, selection, delivery, adaptation testing, regulatory approval, assembly, local manufacture, knowledge transfer, local control, and verified effect;
 - company or institutional trails across time;
 - horizontal mosaics of parallel actors;
 - maps of facilities, commodity routes, ownership, financing, and control;
@@ -126,10 +127,11 @@ Select a primary causal method from the cluster that contains the governing tran
 
 Examples:
 
-- A resource investigation may use commodity and value transfer as primary, with collective organization as a lens on local resistance and bargaining power.
+- A resource investigation may use commodity, technology, and productive-capacity transfer as primary, with collective organization as a lens on local resistance and bargaining power.
 - A movement history may use long-term organizational reproduction as primary, with commodity chains or state finance explaining why its opportunity structure changes.
 - Institutional embedding may require both clusters when popular mobilization enters state programs, markets, or formal representation and both sides are transformed.
 - A transnational movement alliance may use collective-subject formation as primary, with finance, ownership, and control nested inside it when the exchange of legitimacy and organizing capacity for money, administration, media, or protection restructures authority within the coalition.
+- A technology-cooperation investigation may use commodity, technology, and productive-capacity transfer as primary, adding long-term organizational reproduction only when evidence shows a movement, cooperative, or community gaining the durable ability to select, own or allocate, operate, repair, adapt, and reproduce the technology. Participation in a partnership or pilot does not by itself activate the second method.
 
 When crossing clusters:
 

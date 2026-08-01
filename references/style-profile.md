@@ -12,14 +12,15 @@
 
 ## Status
 
-This profile is calibrated from four samples:
+This profile is calibrated from five samples:
 
 - `style-sample-aca-vault-plan.md`
 - `style-sample-mst-history.md`
 - `style-sample-brazil-grassroots-movements.md`
 - `style-sample-ipa-internationalism.md`
+- `style-sample-brazil-family-farming-mechanization.md`
 
-Treat the common core below as stable until later samples and user discussion revise it. Do not average the samples into one surface template: the first builds a cross-border policy-capital network, the second narrates class formation and organizational learning, the third examines how a mature movement reproduces itself, migrates capacities, and enters institutions without resolving the tension between access and autonomy, and the fourth traces how existing organizations become a transnational coalition whose exchange of legitimacy, organizing capacity, money, administration, and media produces a new internal power problem.
+Treat the common core below as stable until later samples and user discussion revise it. Do not average the samples into one surface template: the first builds a cross-border policy-capital network, the second narrates class formation and organizational learning, the third examines how a mature movement reproduces itself, migrates capacities, and enters institutions without resolving the tension between access and autonomy, the fourth traces how existing organizations become a transnational coalition whose exchange of legitimacy, organizing capacity, money, administration, and media produces a new internal power problem, and the fifth maps an unfinished attempt to convert imported technology into locally organized productive capacity. The fifth is a forward-looking public-information analysis; its inventories and report-like sections are not part of the stable publication style.
 
 ## Political-economic perspective
 
@@ -30,6 +31,8 @@ Trace property, production, credit, logistics, labor, organization, and coercion
 The moving subject may be a network of state credit, firms, allied facilities, and commodity channels; a population that becomes a collective actor through conflict and organization; or a coalition formed by existing organizations whose functions and power distribution change over time. Do not assume in advance that it is a person, institution, class, state, company, or formally named organization.
 
 When the subject is already mature, trace how it reproduces action capacity through livelihood, education, cadres, facilities, distribution, legitimacy, alliances, and political access. Do not explain an established movement only through its founding victory, declared membership, or visible protest count.
+
+Do not equate a machine, factory announcement, assembly contract, or training event with productive capacity. When technology is central, trace whether equipment, knowledge, maintenance, components, software, finance, processing, storage, and decision rights become durably usable by the local actor.
 
 ### Treat every actor as internally uneven
 
@@ -44,6 +47,8 @@ This is not a requirement to appear neutral. Internal contradiction should expla
 Use sequence to show why an old arrangement stopped working, why a new action became possible, what it solved, and what followed. Do not substitute a dated list for explanation.
 
 Treat clustered timing and parallel action as legitimate investigative clues. In working notes, distinguish proven coordination from structural inference and test alternatives. In prose, state a well-supported inference plainly rather than weakening it simply because no actor publicly admits the relation. Embed certainty naturally: distinguish formal control, documented transfer, and direct benefit from access, influence, structural pressure, and probable benefit without importing ledger labels into the article.
+
+For unfinished projects, make status differences carry the chronology: a participant list is not a contract, delivery is not adaptation, assembly is not local manufacture, and a localization target is not a realized transfer. A forward-looking judgment should state which link exists and which result remains to be tested.
 
 ### Let contradiction drive movement
 
@@ -116,6 +121,8 @@ Do not impose a quota for original concepts. Coin or rename a relation only when
 - Do not reproduce typos, corrupted characters, inconsistent naming, or grammatical accidents.
 - Do not require company lists, identical case templates, location-based headings, first-person plural, direct polemic, oversized concluding paragraphs, or a symbolic ending in every article.
 - Do not turn every alliance into a fixed opposition between legitimacy and money, require a visible relationship table, or infer a specific payment merely from the scale of a surrounding funding network.
+- Do not reproduce long company lists, customs classifications, compliance checklists, or general market statistics in publication prose unless they establish the governing mechanism. Their value in a research dossier does not make them part of the authorial voice.
+- Do not infer equality, autonomy, or empowerment solely from a partner's identity, the delivery of equipment, or participation in a pilot. Test ownership, finance, knowledge, maintenance, data, decision rights, and distribution of results while preserving any political judgment the evidence supports.
 - Do not imitate long paragraphs that compress several causal chains without developing their connections; preserve synthesis while dividing arguments when clarity requires it.
 - Do not convert exact dialogue, interior states, or sensory details into fact without source support.
 - Do not confuse confident tone with demonstrated causation.

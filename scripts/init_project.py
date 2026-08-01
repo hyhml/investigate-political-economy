@@ -18,7 +18,7 @@ FILES = {
 - Completed gates: none
 - Current task: Establish the factual terrain
 """,
-    "research-dossier.md": "# Research dossier\n\n## Scope and selected methods\n\n## Moving subject and governing contradictions\n\n## Findings by mechanism\n\n## Internal differences\n\n## Conflicts and gaps\n",
+    "research-dossier.md": "# Research dossier\n\n## Scope\n\n## Moving subject, phase, and governing contradiction\n\n## Causal gap\n\n## Method selection\n\n### Primary causal method\n\n### Nested supporting method\n\n### Cross-cutting lenses\n\n### Evidence and narrative forms\n\n### Excluded methods and activation conditions\n\n### Reselection record\n\n## Findings by mechanism\n\n## Internal differences\n\n## Conflicts and gaps\n",
     "source-ledger.md": "# Source ledger\n\nUse representation labels where relevant: QUOTE, PARAPHRASE, RECONSTRUCTION, or UNVERIFIED.\n\n| Source | Type | Event date | Publication date | Status | Representation | Supports | Cannot support | Confidence | Follow-up |\n|---|---|---|---|---|---|---|---|---|---|\n",
     "chronology.md": "# Chronology\n\n| Date | Event | Status | Source | Significance |\n|---|---|---|---|---|\n",
     "actor-map.md": "# Actor map\n\n## States and agencies\n\n## Firms and finance\n\n## Movements, workers, communities, and intermediaries\n\n## Internal differences\n\n## Relationships\n",

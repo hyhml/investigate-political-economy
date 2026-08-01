@@ -40,7 +40,7 @@ Research broadly before asking interpretive questions. Resolve discoverable fact
 
 Build the chronology, actor map, source ledger, relevant money/material/control flows, organizational changes, document status, source conflicts, and unresolved gaps. Identify the material relations that distribute action capacity and the actor or network that changes through the investigation. Search primary materials in their original languages where useful. Distinguish announcements, authorizations, signed agreements, closing, disbursement, construction, production, shipment, and realized results.
 
-Choose methods from `references/method-clusters.md` according to the question and available evidence. Do not activate an entire cluster merely because a topic resembles one sample. Combine clusters when useful, while naming the primary moving subject and governing contradiction so that policy files, enterprise trails, oral histories, and scenes do not become disconnected collections.
+Choose methods from `references/method-clusters.md` according to the causal gap and available evidence, not the topic label. Record one provisional primary causal method, any nested supporting method, the necessary cross-cutting lenses, evidence forms, and explicitly excluded methods. Do not activate an entire cluster because a topic resembles one sample. Reassess the selection after the basic chronology and actor map, and again at Stage 1 saturation. When combining clusters, name which method is primary so that policy files, enterprise trails, oral histories, and scenes do not become disconnected collections.
 
 Actively seek disconfirming evidence and meaningful perspectives from resource-producing states, workers, allied states, firms, regulators, movement members, intermediaries, and critics. Investigate differences within states, firms, movements, and alliances; never presume a seamless single will. Use parallel research agents only for bounded independent lines when it materially improves coverage; the main agent must read, reconcile, and record their evidence.
 
@@ -50,6 +50,7 @@ At provisional saturation, provide a Stage 1 discussion brief containing:
 - the emerging factual chains;
 - anomalies and contradictions;
 - what public evidence cannot establish;
+- methods retained, added, removed, or excluded, and what each explains;
 - several research-generated interpretive forks;
 - only the high-value questions that require human judgment.
 

@@ -31,7 +31,7 @@ If the user requests a rollback, set the requested earlier state and retain late
 ## Project files
 
 - `project-state.md`: topic, time cutoff, state, completed gates, current task, last update.
-- `research-dossier.md`: detailed factual notes organized by mechanism and actor.
+- `research-dossier.md`: scope, moving subject, causal gap, layered method selection and reselection record, followed by factual notes organized by mechanism and actor.
 - `source-ledger.md`: source identity, date, type, reliability, claim supported, limits, and any quotation/paraphrase/reconstruction status.
 - `chronology.md`: events with status distinctions and source links.
 - `actor-map.md`: institutions, firms, states, movements, workers, communities, intermediaries, internal divisions, and relationships.
@@ -49,11 +49,12 @@ Update files incrementally. Never erase a source or user decision merely because
 Write the full record to project files. In chat, report:
 
 1. Scope and coverage achieved.
-2. Established facts and chains.
-3. Important anomalies or conflicts.
-4. Evidence boundaries, including reconstruction and inference limits.
-5. Interpretive forks discovered through research.
-6. Two to five consequential questions.
+2. Methods retained, added, removed, or excluded, and what each explains.
+3. Established facts and chains.
+4. Important anomalies or conflicts.
+5. Evidence boundaries, including reconstruction and inference limits.
+6. Interpretive forks discovered through research.
+7. Two to five consequential questions.
 
 Do not propose a polished final thesis yet. It is acceptable to identify promising lines.
 

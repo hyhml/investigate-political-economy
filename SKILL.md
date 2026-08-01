@@ -32,7 +32,7 @@ Read these references when relevant:
 - `references/method-clusters.md`: optional, cross-compatible research methods for institutional networks and collective-subject histories. Read before planning Stage 1 searches.
 - `references/evidence-and-publication.md`: inference tracking, scene reconstruction, and the separation between a fully sourced working record and lightly cited publication prose.
 - `references/style-profile.md`: calibrated authorial style model. Read before Stage 2 argument design and again before Stage 3 prewriting.
-- `references/style-sample-aca-vault-plan.md` and `references/style-sample-mst-history.md`: foundational prose samples. Read both before building the Stage 3 narrative brief unless the user explicitly limits the relevant sample set.
+- `references/style-sample-aca-vault-plan.md`, `references/style-sample-mst-history.md`, and `references/style-sample-brazil-grassroots-movements.md`: calibrated prose samples. Read all three before building the Stage 3 narrative brief unless the user explicitly limits the relevant sample set.
 
 ## Stage 1: establish the factual terrain
 
@@ -77,7 +77,7 @@ Enter `stage_2_discussion` and stop. Advance only after the user explicitly appr
 
 ## Stage 3: build the hidden structure and write
 
-First perform targeted verification for the chosen argument and read the current style profile and both foundational prose samples. Decide what evidence belongs in the article and what should remain backstage. Follow `references/evidence-and-publication.md` for source visibility and any scene reconstruction.
+First perform targeted verification for the chosen argument and read the current style profile and all calibrated prose samples. Decide what evidence belongs in the article and what should remain backstage. Follow `references/evidence-and-publication.md` for source visibility and any scene reconstruction.
 
 Create `narrative-brief.md` with a hidden movement of thought, not a visible report outline. Present the user with a compact prewriting brief containing the opening tension, governing thesis, main cases, boldest inference, strongest counterweight, intended register, citation treatment, and expected length. Enter `stage_3_prewrite` and stop.
 

@@ -32,7 +32,7 @@ Read these references when relevant:
 - `references/method-clusters.md`: optional, cross-compatible research methods for institutional networks and collective-subject histories. Read before planning Stage 1 searches.
 - `references/evidence-and-publication.md`: inference tracking, scene reconstruction, and the separation between a fully sourced working record and lightly cited publication prose.
 - `references/style-profile.md`: calibrated authorial style model. Read before Stage 2 argument design and again before Stage 3 prewriting.
-- `references/style-sample-aca-vault-plan.md`, `references/style-sample-mst-history.md`, and `references/style-sample-brazil-grassroots-movements.md`: calibrated prose samples. Read all three before building the Stage 3 narrative brief unless the user explicitly limits the relevant sample set.
+- `references/style-sample-aca-vault-plan.md`, `references/style-sample-mst-history.md`, `references/style-sample-brazil-grassroots-movements.md`, and `references/style-sample-ipa-internationalism.md`: calibrated prose samples. Read all four before building the Stage 3 narrative brief unless the user explicitly limits the relevant sample set.
 
 ## Stage 1: establish the factual terrain
 
@@ -89,13 +89,14 @@ Draft only after explicit approval. During drafting:
 - use cases to move across scales—concrete action, exposed relation, wider structure, then a new case that tests the interpretation;
 - preserve internal unevenness within states, capital, movements, and alliances without turning this into ritual balance;
 - embed evidence limits naturally in sentences rather than displaying audit labels;
+- distinguish documented transfers and formal control from structural pressure, likely benefit, access, influence, and intermediary discretion; preserve bold inference without turning a probable specific transaction into an established fact;
 - use a small number of organic headings and uneven section lengths when the material calls for them;
 - narrate firms, organizations, and communities as developing trails of action, not identical case-study templates;
 - preserve authorial intervention, transitions, recursions, and widening historical perspective;
 - let concepts arise through concrete material and organizational relations instead of pausing for textbook definitions;
 - allow forceful political vocabulary when the demonstrated structure calls for it; do not mechanically intensify the diction or neutralize a supported judgment;
 - retain counterevidence without dissolving the conclusion into false balance;
-- choose a systemic synthesis or an earned symbolic scene for the ending, and use it to reclassify the opening problem rather than summarize sections;
+- choose a systemic synthesis, an earned symbolic scene, or a historically unresolved question for the ending, and use it to reclassify the opening problem rather than summarize sections; use the unresolved form only after stating what the investigation has established and only for an outcome that genuinely awaits later events or unavailable evidence;
 - avoid think-tank symmetry, checklist prose, canned neutrality, forced concept invention, and a conclusion announced in full at the opening.
 
 After drafting, run separate factual and stylistic audits. Correct errors but do not flatten the voice. Deliver the draft with a concise list of genuine revision decisions for the user.
@@ -112,4 +113,4 @@ Ask a small number of consequential questions grounded in the completed stage. D
 
 ## Preserve the research-writing firewall
 
-Keep tables, evidence grades, exhaustive timelines, reconstruction labels, and claim ledgers in the project files. Transform them into natural prose only in Stage 3. The publication draft may omit dense visible citations when the target publication calls for it, but the working record must preserve complete sourcing and inference paths. Do not write directly from search-result order, include facts merely because they were found, or expose the full backstage framework as the article's visible structure.
+Keep evidence grades, exhaustive timelines, reconstruction labels, and claim ledgers in the project files. Keep tables backstage by default. A single compact relationship table may appear in publication prose only when exact mappings among several fields—such as people, organizations, regions, and roles—would become materially less clear in sentences, and only when surrounding prose still supplies the causal interpretation. The publication draft may omit dense visible citations when the target publication calls for it, but the working record must preserve complete sourcing and inference paths. Do not write directly from search-result order, include facts merely because they were found, or expose the full backstage framework as the article's visible structure.

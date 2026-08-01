@@ -85,7 +85,7 @@ Use as the mechanism requires:
 Choose the method that answers the article's main unanswered change:
 
 - **Structural constituency formation:** use when explaining how property, production, displacement, labor markets, and state policy produce a population that existing institutions cannot absorb.
-- **Collective-subject formation:** use when explaining how dispersed people acquire shared identity, decision capacity, discipline, and a reproducible repertoire of action.
+- **Collective-subject formation:** use when explaining how dispersed people become a movement, or how existing organizations become a working coalition, by acquiring shared identity or purpose, decision capacity, discipline, divided functions, and a reproducible repertoire of action.
 - **Organizational learning:** use when explaining how petition, failure, confrontation, victory, and newly created contradictions alter strategy and organizational form.
 - **Long-term organizational reproduction:** use when explaining how a mature movement continually replenishes members, livelihood, food, cadres, education, resources, legitimacy, and participation.
 - **Institutional embedding and autonomy:** use when explaining how entry into committees, schools, parties, elections, courts, state programs, or markets simultaneously expands capacity, imposes constraints, and may dilute political aims.
@@ -101,6 +101,7 @@ Activate only when omitting the lens could change the causal account:
 - household reproduction, gender, food, shelter, care, livelihood, and intergenerational continuity;
 - churches, unions, parties, NGOs, lawyers, professional networks, armed actors, and other intermediaries;
 - leadership, ordinary members, settled and unsettled participants, generations, roles, and internal factions;
+- alliance power decomposed into legitimacy, members, organizing skill, finance, administration, media capacity, technical resources, protection, geography, and organizational loyalty; trace what each participant supplies, receives, and can withhold;
 - regional, urban-rural, legal, market, state-capacity, and violence differences;
 - land ownership, commodity chains, finance, employers, and state institutions drawn from Cluster A.
 
@@ -114,6 +115,8 @@ Choose by source support and explanatory function:
 - **Regional or paired comparison:** use variation to test why similar actors or tactics produce different results, not merely to broaden coverage.
 - **Capacity and infrastructure inventory:** trace members, cadres, money, food, facilities, distribution, education, alliances, legitimacy, and communication when persistence or tactical migration is at issue.
 - **Institutional pathway tracing:** follow how informal mobilization becomes—or fails to become—formal rights, budgets, representation, policy, or electoral presence.
+- **Organizational genealogy and function tracing:** identify precursor meetings, schools, media, funds, forums, and coordination bodies by the functions they perform before a formal name or founding date consolidates them; follow subsequent changes in staffing, finance, administration, and authority.
+- **Partner and non-partner comparison:** compare selected collaborators with plausible organizations that were not selected when the contrast reveals the actual criteria of trust, political alignment, organizational usefulness, or resource access.
 
 Scenes, interviews, statistics, and organizational detail are not causal methods by themselves. Use them only to establish or challenge the selected mechanism.
 
@@ -126,6 +129,7 @@ Examples:
 - A resource investigation may use commodity and value transfer as primary, with collective organization as a lens on local resistance and bargaining power.
 - A movement history may use long-term organizational reproduction as primary, with commodity chains or state finance explaining why its opportunity structure changes.
 - Institutional embedding may require both clusters when popular mobilization enters state programs, markets, or formal representation and both sides are transformed.
+- A transnational movement alliance may use collective-subject formation as primary, with finance, ownership, and control nested inside it when the exchange of legitimacy and organizing capacity for money, administration, media, or protection restructures authority within the coalition.
 
 When crossing clusters:
 
@@ -133,6 +137,7 @@ When crossing clusters:
 - identify which method is primary and which is supporting;
 - make different evidence forms expose the same or directly connected contradiction;
 - record excluded methods and cases when inclusion would diffuse the argument.
+- separate formal ownership, direct command, funding, access, influence, intermediary discretion, and probable benefit; a resource asymmetry can establish structural pressure without proving every specific transfer.
 
 ## Reselecting methods during research
 

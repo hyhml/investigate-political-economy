@@ -18,13 +18,13 @@ FILES = {
 - Completed gates: none
 - Current task: Establish the factual terrain
 """,
-    "research-dossier.md": "# Research dossier\n\n## Scope\n\n## Findings by mechanism\n\n## Conflicts and gaps\n",
-    "source-ledger.md": "# Source ledger\n\n| Source | Type | Event date | Status | Supports | Cannot support | Follow-up |\n|---|---|---|---|---|---|---|\n",
+    "research-dossier.md": "# Research dossier\n\n## Scope and selected methods\n\n## Moving subject and governing contradictions\n\n## Findings by mechanism\n\n## Internal differences\n\n## Conflicts and gaps\n",
+    "source-ledger.md": "# Source ledger\n\nUse representation labels where relevant: QUOTE, PARAPHRASE, RECONSTRUCTION, or UNVERIFIED.\n\n| Source | Type | Event date | Publication date | Status | Representation | Supports | Cannot support | Confidence | Follow-up |\n|---|---|---|---|---|---|---|---|---|---|\n",
     "chronology.md": "# Chronology\n\n| Date | Event | Status | Source | Significance |\n|---|---|---|---|---|\n",
-    "actor-map.md": "# Actor map\n\n## States and agencies\n\n## Firms and finance\n\n## Workers, communities, and civil society\n\n## Relationships\n",
+    "actor-map.md": "# Actor map\n\n## States and agencies\n\n## Firms and finance\n\n## Movements, workers, communities, and intermediaries\n\n## Internal differences\n\n## Relationships\n",
     "unresolved-questions.md": "# Unresolved questions\n\n## Factual gaps\n\n## Interpretive forks\n\n## Author decisions\n",
     "user-decisions.md": "# User decisions\n\n| Date | Stage | Decision or reservation | Consequence |\n|---|---|---|---|\n",
-    "argument-map.md": "# Argument map\n\n## Competing explanations\n\n## Counterevidence\n\n## Proposed governing thesis\n",
+    "argument-map.md": "# Argument map\n\n## Competing explanations\n\n## Causal and inference paths\n\n## Counterevidence and falsifiers\n\n## Proposed governing thesis\n",
     "style-profile.md": "# Project style profile\n\nUse the skill-level profile unless the user approves project-specific overrides.\n",
     "narrative-brief.md": "# Narrative brief\n\nNot started. Complete only in Stage 3.\n",
     "draft.md": "# Draft\n\nDrafting is locked until Stage 3 approval.\n",
@@ -56,4 +56,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
